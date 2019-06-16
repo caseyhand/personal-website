@@ -49,9 +49,6 @@ a:hover{text-decoration: none; cursor:pointer;}
 .bloc-md{
 	padding:50px;
 }
-.bloc-sm{
-	padding:20px 50px;
-}
 
 
 /* Light theme */
@@ -208,10 +205,10 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .h1-style{
 	font-size:35px;
-	width:58.65%;
+	width:100%;
 }
 .img-style{
-	width:375px;
+	width:241px;
 }
 .img-img-23-style{
 	width:380px;
@@ -237,6 +234,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .h6-style{
 	font-size:10px;
+}
+.p-style{
+	width:100%;
 }
 
 /* = Colour
