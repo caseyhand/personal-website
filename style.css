@@ -126,6 +126,14 @@ button{
 	outline: none!important;
 }
 
+.a-block{
+	width:100%;
+	text-align:left;
+	display: inline-block;
+}
+.text-center .a-block{
+	text-align:center;
+}
 
 
 
@@ -196,10 +204,11 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	max-width:1170px;
 }
 .link-style{
-	;
+	width:11.05%;
 }
 .h1-style{
 	font-size:35px;
+	width:58.65%;
 }
 .img-style{
 	width:375px;
@@ -218,6 +227,16 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .hero-first-col-mb{
 	margin-bottom:30px;
+}
+.link-padding{
+	width:26.18%;
+}
+.divider-padding{
+	padding-top:8px;
+	padding-bottom:8px;
+}
+.h6-style{
+	font-size:10px;
 }
 
 /* = Colour
