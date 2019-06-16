@@ -49,6 +49,9 @@ a:hover{text-decoration: none; cursor:pointer;}
 .bloc-md{
 	padding:50px;
 }
+.bloc-sm{
+	padding:20px 50px;
+}
 
 
 /* Light theme */
@@ -108,6 +111,18 @@ a:hover{text-decoration: none; cursor:pointer;}
 .mg-md{
 	margin-top:10px;
 	margin-bottom:20px;
+}
+img.mg-sm,img.mg-md,img.mg-lg{
+	margin-top: 0;
+}
+img.mg-sm{
+	margin-bottom:10px;
+}
+img.mg-md{
+	margin-bottom:30px;
+}
+img.mg-lg{
+	margin-bottom:50px;
 }
 
 /* = Buttons
@@ -237,6 +252,18 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .p-style{
 	width:100%;
+}
+.html-widget-style{
+	height:28px;
+}
+.container-div-style{
+	height:342px;
+}
+.container-div-bloc-4-style{
+	height:169px;
+}
+.img-bloc-4-style{
+	width:140px;
 }
 
 /* = Colour
